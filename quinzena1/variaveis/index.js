@@ -58,9 +58,9 @@ console.log(terceiraResposta)
 let f = 10
 let g = 25
 let h
-f=h
-g=f
-h=g
+h=f
+g=h
+f=g
 
 console.log(f,g,h) 
 
