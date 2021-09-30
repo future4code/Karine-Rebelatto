@@ -1,0 +1,21 @@
+.Form1 {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  align-items: center;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
