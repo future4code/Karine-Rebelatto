@@ -12,3 +12,10 @@ body {
       monospace;
   }
   
+  button {
+    display: inline;
+    justify-content: center;
+    padding: 5px;
+    color: #6959CD;
+  
+  }
